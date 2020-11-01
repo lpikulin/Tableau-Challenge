@@ -1,0 +1,17 @@
+***NOTE: due to the constraints of my system, I limited my analysis to one month of data, September 2019. Orginally I had planned to look at all of 2019, but it took a very long time to load that data into Tableau, and it prohibited creating any visualizations in Tableau.
+
+Tableau link:
+https://public.tableau.com/profile/linda.pikulin#!/vizhome/Tableau-Challenge_16042557585970/Story1?publish=yes
+
+Citi Map:
+The count of rentals for starting stations are show by the size of the circle, the count of rentals for endings station are shown by the depth of the color, with darker blue indicating a higher number of rental returns.  The highest density stations for starting and stopping rentals are the same and are located close to major transporation hubs such as Union Station and Grand Central Station.
+
+User type analysis:
+The bulk of weekday rentals are to subscribers. Weekend rentals are about one-third non-subscribers. Weekday subscribers have a bimodal peaks in start time clustered around the beginning (7am-9am) and end(4pm-6pm) of the work day. There is littler variation in the duration of their weekday trips.
+
+The bulk of weekend rentals occur between 8am and 8pm for both subscribers and non-subscribers. However, there is an interesting  phenomenon for non-subscribers.  The average duration for bike rental starts between the hours of 12am and 5am is significatnly higher, 3K, than at other times of day when it is closer to 2K. This is true both during the week and on the weekend, but is most pronounced on Saturday.
+This suggests that Citi bike longest rides are taken by the late night crowd.
+
+Gender analysis:
+More than half of Citi bike rentals are for known males. Weekends have a higher percentage of riders that are female or of unknown genders. Females are less likely to begin a bike rental in off hours, with most of their rentals falling between 7am and 8pm. Renters of unknown genders appear to be the biggest contributors to the late night, long duration Citi bike rentals. 
+
